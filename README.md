@@ -5,10 +5,10 @@ A simulation of a CRUD without persistence in the database using the REST API ar
 #### RequestMethod.GET
 ![image](https://user-images.githubusercontent.com/56695817/164860710-798e8c3c-1670-48d8-a4d4-e4c673f4e538.png)
 
-#### method = RequestMethod.POST
+#### RequestMethod.POST
 ![image](https://user-images.githubusercontent.com/56695817/164861455-2f52373c-0419-42f7-a24f-35b439c81ba9.png)
 
-#### method = RequestMethod.PUT
+#### RequestMethod.PUT
 ![image](https://user-images.githubusercontent.com/56695817/164861516-5feb7514-9510-4b5d-9b85-ff72ba21ac9f.png)
 
 #### RequestMethod.DELETE
