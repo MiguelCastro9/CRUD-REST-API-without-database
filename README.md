@@ -1,6 +1,6 @@
 # Overview
 
-A simulation of a CRUD without persistence in the database using the REST API architecture and the main HTTP verbs (GET,POST,PUT and DELETE)
+A simulation of a CRUD without persistence in the database using SpringBoot, REST API architecture and the main HTTP verbs (GET,POST,PUT and DELETE)
 
 #### RequestMethod.GET
 ![image](https://user-images.githubusercontent.com/56695817/164860710-798e8c3c-1670-48d8-a4d4-e4c673f4e538.png)
